@@ -1,0 +1,19 @@
+{
+  "name": "hist-events-mini-app",
+  "version": "1.0.0",
+  "description": "historical event fetcher miniapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herbalmanatee/hist-events-mini-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herbalmanatee/hist-events-mini-app/issues"
+  },
+  "homepage": "https://github.com/herbalmanatee/hist-events-mini-app#readme"
+}
